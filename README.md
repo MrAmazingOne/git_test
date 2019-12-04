@@ -1,0 +1,1 @@
+This is MRAMAZING'S first git project!
